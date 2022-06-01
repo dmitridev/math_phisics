@@ -8,7 +8,6 @@ path = os.path.abspath('./')
 
 filename = 'Анго А. Математика для электро-и радиоинженеров.md'
 
-# теперь нужно обработать файл
 lines = []
 
 with open(filename, 'r+', encoding='utf-8') as file:
